@@ -1,5 +1,5 @@
 title: Abstract Nonsense
-description: Coding, mathematics and design
+description: Coding, Mathematics and Design
 show_downloads: false
 google_analytics:
 theme: minima
@@ -8,4 +8,3 @@ permalink: /:title
 minima:
   social_links:
     github: cjwcommuny
-    
