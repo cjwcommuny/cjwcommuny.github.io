@@ -4,3 +4,8 @@ show_downloads: false
 google_analytics:
 theme: minima
 permalink: /:title
+
+minima:
+  social_links:
+    github: cjwcommuny
+    
