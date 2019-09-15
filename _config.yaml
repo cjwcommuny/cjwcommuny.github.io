@@ -1,0 +1,6 @@
+title: cjw's blog
+description: This is cjw's blog.
+show_downloads: false
+google_analytics:
+theme: minima
+permalink: /:title
